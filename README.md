@@ -1,8 +1,20 @@
+## 😄 About Me
 - 👋 Hi, I’m Pr0methium
 - 👀 I’m interested in creating web applications
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me : You contact me via mail, my email id is iamvedantsingh1407@gmail.com
-<!---
-XPr0methiumX/XPr0methiumX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+## 🧠  My latest **PUBLIC** repository 
+[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=verification-bot&show_icons=true&theme=radical)](https://github.com/XPr0methiumX/Verification-Bot)
+
+## ✔️ Top Languages I code in
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpr0methiumx&layout=compact)](https://github.com/XPr0methiumX)
+
+## 📊 Github Statistics
+[![Stats](https://github-readme-stats.vercel.app/api?username=xpr0methiumx&hide=prs,stars&theme=tokyonight)](https://github.com/XPr0methiumX)
+
+## 📫 Contact
+- Instagram - xpr0methiumx
+- Twitter - XPr0methiumX
+- Discord - Pr0methium#0337
+- Email - iamvedantsingh1407@gmail.com
