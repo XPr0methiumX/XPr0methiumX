@@ -5,7 +5,7 @@
 
 
 ## 🧠  My latest **PUBLIC** repository 
-[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=verification-bot&show_icons=true&theme=radical)](https://github.com/XPr0methiumX/Verification-Bot)
+[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=clever-chat&show_icons=true&theme=radical)](https://github.com/XPr0methiumX/Clever-chat)
 
 ## ✔️ Top Languages I code in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpr0methiumx&layout=compact)](https://github.com/XPr0methiumX)
