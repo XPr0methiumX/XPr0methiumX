@@ -5,13 +5,13 @@
 
 
 ## 🧠  My latest **PUBLIC** repository 
-[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=clever-chat&show_icons=true&theme=radical)](https://github.com/XPr0methiumX/Clever-chat)
+[![Verification Bot](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=clever-chat&show_icons=true&theme=tokyonight)](https://github.com/XPr0methiumX/Clever-chat)
  
 ## ✔️ Top Languages I code in
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpr0methiumx&layout=compact&theme=radical)](https://github.com/XPr0methiumX)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpr0methiumx&layout=compact&theme=tokyonight)](https://github.com/XPr0methiumX)
 
 ## 📊 Github Statistics
-[![Stats](https://github-readme-stats.vercel.app/api?username=xpr0methiumx&hide=prs,stars&theme=radical)](https://github.com/XPr0methiumX)
+[![Stats](https://github-readme-stats.vercel.app/api?username=xpr0methiumx&hide=prs,stars&theme=tokyonight)](https://github.com/XPr0methiumX)
 
 ## 📫 Contact
 - Instagram - xpr0methiumx
