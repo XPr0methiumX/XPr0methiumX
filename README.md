@@ -15,6 +15,6 @@
 
 ## 📫 Contact
 - Instagram - xpr0methiumx
-- Twitter - XPr0methiumX
+- Twitter - RacksIn_
 - Discord - Pr0methium#0337
 - Email - iamvedantsingh1407@gmail.com
