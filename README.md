@@ -1,16 +1,17 @@
-### Hi there 👋
+## 😄 About Me
+- 👋 Hi, I’m Pr0methium
+- 👀 I’m interested in creating web applications
+- 🌱 I’m currently learning typescript
 
-<!--
-**XPr0methiumX/XPr0methiumX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🧠  My latest **PUBLIC** repository 
+[![Clever chat](https://github-readme-stats.vercel.app/api/pin/?username=xpr0methiumx&repo=clever-chat&show_icons=true&theme=tokyonight)](https://github.com/XPr0methiumX/Clever-chat)
+ 
+## ✔️ Top Languages I code in
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpr0methiumx&layout=compact&theme=tokyonight)](https://github.com/XPr0methiumX)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Github Statistics
+[![Stats](https://github-readme-stats.vercel.app/api?username=xpr0methiumx&hide=prs,stars&theme=tokyonight)](https://github.com/XPr0methiumX)
+
+## 📫 Contact
+- Discord - opipsey
