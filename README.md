@@ -1,7 +1,7 @@
 ## 😄 About Me
 - 👋 Hi, I’m Pr0methium
 - 👀 I’m interested in creating web applications
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Rust
 
 
 ## 🧠  My latest **PUBLIC** repository 
